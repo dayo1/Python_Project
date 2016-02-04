@@ -1,3 +1,4 @@
+Test edition
 c style search widget  
  2 +  
  3 +Translated from Tcl code by Schelte Bron, http://wiki.tcl.tk/18188  
